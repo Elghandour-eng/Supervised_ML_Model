@@ -19,5 +19,5 @@ git clone https://github.com/Elghandour-eng/Supervised_ML_Model.git
 # `Usage`
  The repository contains the following files:<br>
 
-  - `logistic_regression.py` :  Implementation of Logistic Regression algorithm.
-  - `naive_bayes.py` : Implementation of Naive Bayes Classifier algorithm.
+  - `Logistic Regression.ipynb` :  Implementation of Logistic Regression algorithm.
+  - `Naive-Bayes.py` : Implementation of Naive Bayes Classifier algorithm.
