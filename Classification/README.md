@@ -8,7 +8,7 @@ Binary classification algorithm that models the probability of a binary outcome 
 ## `Naive Bayes Classifier`
 Probabilistic classification algorithm that is based on `Bayes' theorem` and the assumption of independence between the features.<br> It works by modeling the probability of each class given the features, and then selecting the class with the highest probability.<br> `Naive Bayes Classifier` is fast, easy to implement,<br> and can be used for both binary and multiclass classification problems.<br> It is particularly effective for text classification tasks, such as spam filtering and sentiment analysis.
 
-#Getting Started
+# Getting Started <br>
 To use the implementations provided in this repository,you will need to have Python 3 installed on your machine,<br> along with several Python packages, such as NumPy, Pandas, and Scikit-learn.<br> You can install these packages using pip or conda, depending on your preference.
 
 Once you have installed the necessary dependencies, you can clone this repository to your local machine using the following command:
