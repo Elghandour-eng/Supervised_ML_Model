@@ -26,4 +26,4 @@ git clone https://github.com/Elghandour-eng/Supervised_ML_Model.git
 
   - `Logistic Regression.ipynb` :  Implementation of Logistic Regression algorithm.
   - `Naive-Bayes.py` : Implementation of Naive Bayes Classifier algorithm.
-  - - `Decision Trees.py` : Implementation of Decision Trees Classifier algorithm.
+  - `Decision Trees.py` : Implementation of Decision Trees Classifier algorithm.
