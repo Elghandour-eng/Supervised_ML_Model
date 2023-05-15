@@ -1,6 +1,6 @@
 
 # `Classification Algorithms` <br>
-This repository contains Python implementations of two popular classification algorithms: `Logistic Regression` and `Naive Bayes Classifier`.<br> These algorithms can be used to solve a variety of classification problems,<br> such as predicting the likelihood of a customer buying a product or identifying spam emails.
+This repository contains Python implementations of two popular classification algorithms: `Logistic Regression` , `Naive Bayes Classifier` and `Decision Trees`.<br> These algorithms can be used to solve a variety of classification problems,<br> such as predicting the likelihood of a customer buying a product or identifying spam emails.
 
 ## `Logistic Regression`
 Binary classification algorithm that models the probability of a binary outcome (such as "yes" or "no") based on one or more predictor variables (features).
