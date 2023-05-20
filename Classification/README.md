@@ -1,6 +1,6 @@
 
 # `Classification Algorithms` <br>
-This repository contains Python implementations of two popular classification algorithms: `Logistic Regression` , `Naive Bayes Classifier` and `Decision Trees`.<br> These algorithms can be used to solve a variety of classification problems,<br> such as predicting the likelihood of a customer buying a product or identifying spam emails.
+This repository contains Python implementations of two popular classification algorithms: `Logistic Regression` , `Naive Bayes Classifier`, `SVM` and `Decision Trees`.<br> These algorithms can be used to solve a variety of classification problems,<br> such as predicting the likelihood of a customer buying a product or identifying spam emails.
 
 ## `Logistic Regression`
 Binary classification algorithm that models the probability of a binary outcome (such as "yes" or "no") based on one or more predictor variables (features).
@@ -11,6 +11,9 @@ Probabilistic classification algorithm that is based on `Bayes' theorem` and the
 ## `Decision Trees`
 `Decision trees` are a type of supervised learning algorithm that can <br>
 be used to make predictions by building a tree-like structure of decisions and their possible consequences.
+
+## `SVM`
+`Support Vector Machines (SVMs)` are a powerful class of machine learning algorithms used for classification and regression analysis.
 
 
 # Getting Started <br>
@@ -27,3 +30,4 @@ git clone https://github.com/Elghandour-eng/Supervised_ML_Model.git
   - `Logistic Regression.ipynb` :  Implementation of Logistic Regression algorithm.
   - `Naive-Bayes.py` : Implementation of Naive Bayes Classifier algorithm.
   - `Decision Trees.py` : Implementation of Decision Trees Classifier algorithm.
+  -  `SVM.py` : Implementation of SVM Classifier algorithm.
